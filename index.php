@@ -7,9 +7,12 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Hellooo</title>
     </head>
     <body>
+    <div>
+        <label>Hello</label>
+    </div>
         <?php
         phpinfo();
         echo "julio";
